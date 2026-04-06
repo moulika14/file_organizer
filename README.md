@@ -46,10 +46,15 @@ This tool programmatically enforces a deterministic folder hierarchy to eliminat
  📁 Repository Structure
 
 file_organizer/
+
 │
+
 ├── main.py              # Core execution script
+
 ├── README.md            # Project documentation
+
 ├── .gitignore           # Git exclusions
+
 └── LICENSE              # (Optional) Open-source license
 
  ▶️ Installation & Execution
